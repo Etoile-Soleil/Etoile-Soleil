@@ -5,7 +5,7 @@
     1. 世界一周
     1. 大型免許取得
 
-　　　　print("hello world!")
+`print("hello world!")`
 - **修論**頑張るぞ
 
 ## [御大将](https://github.com/taikis)
